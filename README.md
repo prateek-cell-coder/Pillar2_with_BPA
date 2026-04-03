@@ -1,25 +1,15 @@
-# Getting Started
+<<<<<<< HEAD
+# Pillar2
 
-Welcome to your new project.
+CAP Project with UI and Excel formatting
 
-It contains these folders and files, following our recommended project layout:
+## Project Structure
 
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
+- app/ → UI (SAPUI5 / Fiori)
+- db/ → Data models
+- srv/ → Services and business logic
 
+## Run the project
 
-## Next Steps
-
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
-
-
-## Learn More
-
-Learn more at https://cap.cloud.sap/docs/get-started/.
+```bash
+cds watch
