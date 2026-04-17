@@ -146,6 +146,8 @@
             <table:Column width="120px"><Label text="Document"/><table:template><Text text="{tableModel>Document}"/></table:template></table:Column>
             <table:Column width="250px"><Label text="Text"/><table:template><Text text="{tableModel>Text}"/></table:template></table:Column>
             <table:Column width="120px"><Label text="Reference"/><table:template><Text text="{tableModel>Reference}"/></table:template></table:Column>
+            <table:Column width="100px"><Label text="System"/><table:template><Text text="{tableModel>System}"/></table:template></table:Column>
+            <table:Column width="140px"><Label text="TicketNumber"/><table:template><Text text="{tableModel>TicketNumber}"/></table:template></table:Column>
             <table:Column width="120px"><Label text="InvoiceID"/><table:template><Text text="{tableModel>InvoiceID}"/></table:template></table:Column>
           </table:columns>
         </table:Table>
