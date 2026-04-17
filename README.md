@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Pillar2
+# Pillar2_with_BPA
 
 CAP Project with UI and Excel formatting
 
